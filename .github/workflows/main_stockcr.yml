@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'stockCr'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_51BBAD74DE694B70993AF3230931C5A9 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_722BBB2B0C334B518E4E7C10052B434F }}
           package: .
